@@ -1,6 +1,6 @@
 :root {
     --color-main: #3a4a6f; /* Main color */
-    --color-secondary: #6c8a84; /* Secondary color */
+    --color-secondary: #6c8880; /* Secondary color */
     --color-white: #ffffff; /* White */
     --color-text: #3a4a6f; /* Default text color */
     --color-background: #f9f9f9; /* Light background */
@@ -193,16 +193,16 @@ nav ul li.dropdown:hover .dropdown-menu {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    header nav ul li {
-        display: block;
-        margin: 10px 0;
+    nav ul {
+        flex-direction: column;
     }
 
-    .page-banner h1 {
-        font-size: 2rem;
+    nav ul li {
+        margin-bottom: 10px;
     }
 
-    footer {
-        font-size: 0.9rem;
+    .dropdown-menu {
+        position: static;
+        box-shadow: none;
     }
 }
