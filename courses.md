@@ -6,27 +6,38 @@ permalink: /courses/
 
 # Courses Offered
 
-## Computer Science
+Explore the exciting world of technology through our comprehensive computer science and engineering programs.
 
-From Code.org’s website: Code.org's Computer Science A (CSA) curriculum is a full-year, rigorous curriculum that 
-introduces students to software engineering and object-oriented programming and design using the Java programming 
-language. This curriculum covers a broad range of topics, including the design of solutions to problems, the use of 
-data structures to organize large sets of data, the development and implementation of algorithms to process data and 
-discover new information, the analysis of potential solutions, and the ethical and social implications of computing systems.
+## [Computer Science A](/courses/computer-science/)
+
+Dive deep into software engineering and object-oriented programming using Java. This rigorous, full-year course covers:
+
+- **Problem Solving**: Design solutions to complex computational problems
+- **Data Structures**: Organize and manipulate large datasets efficiently
+- **Algorithms**: Develop and implement efficient processing methods
+- **Ethics**: Explore the social implications of computing systems
+
+**Prerequisites**: Strong math skills and logical thinking  
+**Credit**: Fulfills UC/CSU "g" requirement
 
 - [Course Syllabus](/assets/documents/ComputerScienceSyllabus.pdf)
 
+---
 
+## [Engineering Design](/courses/engineering-design/)
 
-## Engineering Design
+Unleash your creativity and discover the world through an engineer's perspective. This hands-on course includes:
 
-This class will enable you to explore your creativity and expand your knowledge of the world around you through the 
-lens of an engineer. We will learn the steps of the design process and practice brainstorming new ideas. We will also 
-develop skills with the tools of the engineer, including Computer-Aided Design (CAD) and programming with Arduino 
-devices. Together we will work to make it possible for you to bring your own ideas from concept to creation. 
+- **Design Process**: Learn systematic approaches to problem-solving
+- **CAD Skills**: Master Computer-Aided Design software
+- **Arduino Programming**: Program microcontrollers for real-world projects
+- **Prototyping**: Bring your ideas from concept to creation
+
+**Prerequisites**: None - open to all students  
+**Note**: Perfect introduction to STEM careers
 
 - [Course Syllabus](/assets/documents/EngineeringDesignSyllabus.pdf)
 
+---
 
-
-
+*Ready to start your technology journey? Choose a course above to learn more!*
